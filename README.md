@@ -20,7 +20,7 @@
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" style="border-radius: 50%;"/>
       <br />
-      <strong>Kert Nhorwin A Gepnzon</strong>
+      <strong>King Jon C. Baga</strong>
       <br />
       <em>BSIT - 2D</em>
     </td>
