@@ -7,7 +7,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://postman.com)
 
-**A comprehensive web application for managing scholarship programs, students, and user accounts**
+**A ccomprehensive web application for managing scholarship programs, students, and user accounts**
 
 </div>
 
